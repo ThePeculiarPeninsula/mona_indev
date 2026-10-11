@@ -56,7 +56,7 @@ fi
 export PATH="$PATH:$PUB_CACHE_BIN"
 
 echo -e "\nConfiguring project to use the correct Flutter SDK..."
-fvm use 3.41.5
+fvm use 3.47.4
 
 echo -e "\nFetching the latest dependencies..."
 fvm flutter pub get
