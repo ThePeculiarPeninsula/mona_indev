@@ -2,6 +2,7 @@
 
 # SPDX-FileCopyrightText: 2026 Hexyliae
 # SPDX-FileContributor: Sienna "suprstarrd" M. <business@suprstarrd.com>
+# SPDX-FileContributor: ThePeculiarPeninsula
 #
 # SPDX-License-Identifier: AGPL-3.0-only
 
